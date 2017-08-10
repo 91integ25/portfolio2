@@ -2212,7 +2212,9 @@
 			.image.main img {
 				width: 100%;
 			}
-
+		.image.white{
+			background-color:#fff;
+		}
 /* List */
 
 	ol {
